@@ -1,5 +1,6 @@
 import Vue from 'vue'
 import App from './App.vue'
+import 'web-component-essentials'
 
 Vue.config.productionTip = false
 
