@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>VusJS Application using Web Components</h1>
+    <h1>VueJS Application using Web Components</h1>
 
     <p>
       {{show ? 'open' : 'closed'}}

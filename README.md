@@ -1,5 +1,7 @@
 # web-components-in-vue
 
+Blog post: https://coryrylan.com/blog/using-web-components-in-vues
+
 ## Project setup
 ```
 npm install
