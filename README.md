@@ -1,6 +1,6 @@
 # web-components-in-vue
 
-Blog post: https://coryrylan.com/blog/using-web-components-in-vues
+Blog post: https://coryrylan.com/blog/using-web-components-in-vue
 
 ## Project setup
 ```
